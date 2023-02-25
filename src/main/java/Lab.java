@@ -20,6 +20,7 @@ public class Lab {
      * @return return a^b using the pow() method of the Math class.
      */
     public double mathPow(double a, double b){
+        //simple code needed; Do NOT overthink this!
         double sum = Math.pow(a, b);
         return sum;
     }
